@@ -1,0 +1,1 @@
+<b>This is to showcase the power of vitest as a test runner with react testing library in a vite ts project</b>
